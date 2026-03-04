@@ -18,6 +18,8 @@ public class MiFirstProject_GitHub {
       
         
         System.out.println("Hello word");
+        System.out.println("Внесли изменения");
+        
     }
     
 }
